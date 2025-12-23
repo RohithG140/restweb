@@ -79,7 +79,7 @@ nav a:hover {
   background-color: goldenrod;
   border-radius: 10px;
 
-  width: 110px;           /* ⭐ CHANGE THIS NUMBER */
+  width: 110px;           
   
   padding: 12px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
